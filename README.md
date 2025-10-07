@@ -25,7 +25,7 @@ conda activate phasor_mixing
 ```
 Install the required dependencies using pip
 ```
-python -m pip install -r /path/to/phasor_requirements.txt
+python -m pip install -r phasor_requirements.txt
 ```
 
 # Access to data for examples
