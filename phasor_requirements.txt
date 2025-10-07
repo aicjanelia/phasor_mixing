@@ -1,0 +1,16 @@
+aicsimageio
+aicspylibczi
+colorcet
+fsspec==2023.9.1
+ipywidgets
+jupyter
+matplotlib
+matplotlib-inline
+numpy==1.26.4
+nbformat==5.7
+phasorpy
+scikit-image==0.21.0
+scikit-learn==1.3.0
+scipy==1.11.2
+seaborn==0.12.2
+tifffile
