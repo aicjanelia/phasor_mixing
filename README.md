@@ -9,7 +9,8 @@ The examples provided in the manuscript_figures folder provide illustrative inst
 This code was built and run on a PC running Windows 11 and WSL (Ubuntu).  
 The machine in question was equipped with the following relevant hardware:
 * Intel(R) Xeon(R) w7-3465X 2.50 GHz
-* 256 GB RAM
+* 256 GB RAM  
+
 No GPU is required and the code was not optimized for utilizing a GPU.  
 
 # Installation
