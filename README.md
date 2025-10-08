@@ -16,7 +16,7 @@ No GPU is required and the code was not optimized for utilizing a GPU.
 # Installation
 Clone this repository into a local directory:
 ```
-git clone https://https://github.com/aicjanelia/phasor_mixing
+git clone https://github.com/aicjanelia/phasor_mixing
 ```
 Create a new Python environment with your preferred environment manager (such as miniforge)
 ```
