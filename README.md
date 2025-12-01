@@ -29,6 +29,30 @@ python -m pip install -r phasor_requirements.txt
 ```
 
 # Example
+```
+import phasorpy.phasor as ph
+import phasorpy.plot as plot
+
+import matplotlib.pyplot as plt
+import os
+import sys
+import numpy as np
+
+import warnings
+warnings.filterwarnings("ignore", "is_categorical_dtype")
+warnings.filterwarnings("ignore", "use_inf_as_na")
+
+plt.style.use('default')
+colors = ['#EC8609','#0365B5','#5EB5FD','#671343','#DF53A2']
+
+# Edit this path to point to the downloaded data directory
+droot = f'/path/to/downloaded/data'
+os.chdir(droot)
+
+# This path should not need to change unless this notebook is moved out of the local directory into which this repo was cloned
+sys.path.append("../pmc/pmc.py")
+from pmc import *
+```
 Running PMC analysis consists of calling only a handful of functions. Default parameters were used for all parameters throughout the associated manuscript.
 
 The first step of PMC analysis is to determine the pure components (PC's). To do so, we first load the multispectral images and compute the phasor transform.
