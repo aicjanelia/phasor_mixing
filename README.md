@@ -1,3 +1,6 @@
+# THIS README IS A WORK IN PROGRESS
+Further instructions will be added shortly.
+
 # Phasor Mixing Coefficient.
 Implementation of a phasor-based method for analyzing signal mixing in multispectral images.
 
