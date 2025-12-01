@@ -1,4 +1,4 @@
-# Phasor Mixing Coefficient.
+# Phasor Mixing Coefficient
 Implementation of a phasor-based method for analyzing signal mixing in multispectral images.
 
 This code accompanies a manuscript currently under review. The manuscript_figures folder contains all relevant analysis code to produce the figures for the manuscript. The Python file pmc/pmc.py contains helper functions and the main classes--Phasor, PC, and PairMixture--which handle the phasor analysis of signal mixing.
