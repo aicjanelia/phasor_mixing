@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1071790296.svg)](https://doi.org/10.5281/zenodo.17793282)
 # Phasor Mixing Coefficient
 Implementation of a phasor-based method for analyzing signal mixing in multispectral images.
 
