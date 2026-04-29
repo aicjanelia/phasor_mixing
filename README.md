@@ -21,7 +21,7 @@ git clone https://github.com/aicjanelia/phasor_mixing
 ```
 Create a new Python environment with your preferred environment manager (such as miniforge)
 ```
-conda create -n phasor_mixing python=3.10.12
+conda create -n phasor_mixing python=3.12.13
 conda activate phasor_mixing
 ```
 Install the required dependencies using pip
